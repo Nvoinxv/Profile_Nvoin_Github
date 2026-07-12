@@ -109,21 +109,20 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 
 Let's build something extraordinary together! Feel free to reach out via email or connect with me across social platforms:
 
-<!-- GANTI DENGAN USERNAME/EMAIL ASLI KAMU -->
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:edwardfarrel79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/<GANTI_INSTAGRAM>">
+  <a href="https://www.instagram.com/nvoinxv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://reddit.com/user/<GANTI_REDDIT>">
+  <a href="https://www.reddit.com/u/Nvoinxv/s/Ssah9shyl9">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://tiktok.com/@<GANTI_TIKTOK>">
+  <a href="https://www.tiktok.com/@strumblejyonvoin">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://threads.net/@<GANTI_THREADS>">
+  <a href="https://www.threads.com/@nvoinxv">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
