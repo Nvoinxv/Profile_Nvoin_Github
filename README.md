@@ -1,7 +1,6 @@
-<!-- GANTI DENGAN GAMBAR KAMU — .png/.jpg/link web -->
-<!-- Rekomendasi rasio banner: 1200x400 px atau 800x200 px -->
+<!-- Banner Image: Menggunakan gambar 1205272.jpg yang sudah ditambahkan di folder repo -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x350/0D1117/58A6FF?text=YOUR+BANNER+IMAGE+-+REPLACE+THIS+LINK" alt="Profile Banner" width="100%" style="border-radius: 10px;" />
+  <img src="1205272.jpg" alt="Profile Banner" width="100%" style="border-radius: 12px; object-fit: cover; max-height: 380px;" />
 </div>
 
 <h1 align="center">Hi there, I'm <GANTI_USERNAME> 👋</h1>
@@ -71,30 +70,55 @@ This section is **automatically synchronized every 6 hours** using GitHub Action
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
+> 💡 **Deep-Dive Dashboard:** Check out my detailed [**📈 GITHUB_ANALYTICS.md**](./GITHUB_ANALYTICS.md) file for comprehensive repository metrics, trophy showcases, and streak history!
+
+### ⚡ Core Statistics & Contribution Streak
 <div align="center">
   <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-readme-stats.vercel.app/api?username=<GANTI_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=<GANTI_USERNAME>&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/<GANTI_USERNAME>">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GANTI_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=<GANTI_USERNAME>&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak" />
   </a>
+</div>
+
+### 🌐 Top Languages Distribution
+<div align="center">
+  <a href="https://github.com/<GANTI_USERNAME>">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GANTI_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" />
+  </a>
+</div>
+
+### 🐍 Animated Contribution Grid Snake
+<!-- Animasi elegan ular memakan kontribusi GitHub kamu (di-generate otomatis via action/platfrom snake) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/<GANTI_USERNAME>/<GANTI_USERNAME>/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" onerror="this.style.display='none'" />
 </div>
 
 ---
 
-## 📬 Get In Touch
+## 📬 Connect With Me
 
-Whether you have a question about AI automation, want to collaborate on a full-stack project, or simply want to connect — my inbox is always open!
+Let's build something extraordinary together! Feel free to reach out via email or connect with me across social platforms:
 
-<!-- GANTI DENGAN EMAIL DAN LINKEDIN KAMU -->
+<!-- GANTI DENGAN USERNAME/EMAIL ASLI KAMU -->
 <p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/<GANTI_LINKEDIN_USERNAME>">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://instagram.com/<GANTI_INSTAGRAM>">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://reddit.com/user/<GANTI_REDDIT>">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://tiktok.com/@<GANTI_TIKTOK>">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://threads.net/@<GANTI_THREADS>">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
 
